@@ -1,7 +1,7 @@
 
 # Docker on Windows
 
-It's a comprehensive look at running Docker on Windows, covering everything from 101 to production over 12 chapters.
+It's a comprehensive look at running Docker on Windows, covering everything from 101 to production over 11 chapters.
 
 ## Contents
 
